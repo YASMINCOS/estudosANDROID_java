@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="house_of_cards">House of Cards</string>
+    <string name="s1_e2">S1:E2</string>
+    <string name="todo">TODO</string>
+    <string name="menu_messagem">messagem</string>
+    <string name="menu_volume">volume</string>
+    <string name="menu_estrela">estrela</string>
+    <string name="menu_conteudo">conteudo</string>
+</resources>
